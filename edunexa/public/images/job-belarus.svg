@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" fill="none">
+  <rect width="800" height="500" fill="#081B4B"/>
+  <circle cx="610" cy="140" r="145" fill="#1E40AF" opacity="0.35"/>
+  <!-- Industrial & Logistics Architecture (Belarus) -->
+  <rect x="140" y="210" width="170" height="195" rx="6" fill="#14337D"/>
+  <polygon points="140,210 225,150 310,210" fill="#F6C453"/>
+  <rect x="340" y="170" width="150" height="235" rx="6" fill="#1E40AF"/>
+  <rect x="520" y="235" width="140" height="170" rx="6" fill="#14337D"/>
+  <rect x="175" y="250" width="32" height="32" rx="4" fill="#93C5FD"/>
+  <rect x="240" y="250" width="32" height="32" rx="4" fill="#93C5FD"/>
+  <rect x="375" y="215" width="34" height="34" rx="4" fill="#E2E8F0"/>
+  <rect x="425" y="215" width="34" height="34" rx="4" fill="#E2E8F0"/>
+  <line x1="100" y1="405" x2="700" y2="405" stroke="#F6C453" stroke-width="4" stroke-linecap="round"/>
+</svg>

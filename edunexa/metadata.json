@@ -1,0 +1,6 @@
+{
+  "name": "Edunexa",
+  "description": "Education, global careers, and curated retail services on one bilingual platform — Edunexa International, Edunexa Store, and Edunexa Global Jobs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

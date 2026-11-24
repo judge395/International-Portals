@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" fill="none">
+  <rect width="800" height="500" fill="#0B225B"/>
+  <circle cx="170" cy="130" r="140" fill="#D99B16" opacity="0.16"/>
+  <!-- Twin Spires Inspiration -->
+  <rect x="285" y="140" width="66" height="275" rx="6" fill="#E2E8F0"/>
+  <polygon points="285,140 318,72 351,140" fill="#F6C453"/>
+  <rect x="449" y="140" width="66" height="275" rx="6" fill="#E2E8F0"/>
+  <polygon points="449,140 482,72 515,140" fill="#F6C453"/>
+  <!-- Skybridge -->
+  <rect x="348" y="245" width="104" height="16" fill="#94A3B8"/>
+  <rect x="160" y="275" width="90" height="140" rx="4" fill="#16398A"/>
+  <rect x="550" y="255" width="95" height="160" rx="4" fill="#16398A"/>
+  <line x1="110" y1="415" x2="690" y2="415" stroke="#F6C453" stroke-width="4" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,922 @@
+{
+  "countries": [
+    {
+      "id": "country-kr",
+      "slug": "south-korea",
+      "code": "KR",
+      "name": {
+        "en": "South Korea",
+        "bn": "সাউথ কোরিয়া"
+      },
+      "tagline": {
+        "en": "D-2 & D-4 Visa Track · GKS & University Merit Scholarships",
+        "bn": "D-2 ও D-4 ভিসা ট্র্যাক · GKS এবং ইউনিভার্সিটি স্কলারশিপ"
+      },
+      "overview": {
+        "en": "South Korea offers world-ranked engineering, business, and Korean language programs with generous 30%–100% tuition scholarships and legal part-time work rights.",
+        "bn": "সাউথ কোরিয়াতে বিশ্বমানের ইঞ্জিনিয়ারিং, বিজনেস এবং কোরিয়ান ল্যাঙ্গুয়েজ প্রোগ্রামের পাশাপাশি ৩০%–১০০% টিউশন স্কলারশিপ ও বৈধ পার্ট-টাইম কাজের সুযোগ রয়েছে।"
+      },
+      "visaTimeline": {
+        "en": "6 – 8 Weeks (D-2 / D-4)",
+        "bn": "৬ – ৮ সপ্তাহ (D-2 / D-4)"
+      },
+      "intakes": {
+        "en": "March & September (Language: Quarterly)",
+        "bn": "মার্চ ও সেপ্টেম্বর (ল্যাঙ্গুয়েজ: প্রতি কোয়ার্টারে)"
+      },
+      "languageRequirement": {
+        "en": "IELTS 5.5+ or TOPIK Level 3+ (No IELTS option for Language D-4)",
+        "bn": "IELTS ৫.৫+ অথবা TOPIK ৩+ (D-4 ল্যাঙ্গুয়েজে IELTS ছাড়া সুযোগ)"
+      },
+      "image": "/images/country-korea.svg",
+      "highlights": {
+        "en": [
+          "Up to 100% tuition waiver via GKS & university merit tiers",
+          "Up to 20–25 hours/week legal part-time work permit after 6 months",
+          "Direct embassy & e-Visa document verification support",
+          "Post-study D-10 job-seeker visa pathway available"
+        ],
+        "bn": [
+          "GKS এবং ইউনিভার্সিটি মেরিট স্কলারশিপে সর্বোচ্চ ১০০% টিউশন ফি ছাড়",
+          "৬ মাস পর সপ্তাহে ২০–২৫ ঘণ্টা বৈধ পার্ট-টাইম কাজের অনুমতি",
+          "দূতাবাস ও ই-ভিসা ডকুমেন্ট যাচাইকরণে সম্পূর্ণ সহায়তা",
+          "পড়াশোনা শেষে D-10 জব-সিকার ভিসায় রূপান্তরের সুযোগ"
+        ]
+      }
+    },
+    {
+      "id": "country-my",
+      "slug": "malaysia",
+      "code": "MY",
+      "name": {
+        "en": "Malaysia",
+        "bn": "মালয়েশিয়া"
+      },
+      "tagline": {
+        "en": "EMGS eVAL Fast-Track · Dual-Degree UK/AU Campuses",
+        "bn": "EMGS eVAL ফাস্ট-ট্র্যাক · যুক্তরাজ্য/অস্ট্রেলিয়া ডুয়াল-ডিগ্রি ক্যাম্পাস"
+      },
+      "overview": {
+        "en": "Study in affordable, English-medium international campuses in Kuala Lumpur and Selangor with streamlined EMGS student pass approval and high visa success rates.",
+        "bn": "কুয়ালালামপুর ও সেলাঙ্গরের ইংরেজি মাধ্যম আন্তর্জাতিক ক্যাম্পাসে সাশ্রয়ী খরচে পড়াশোনা এবং দ্রুত EMGS স্টুডেন্ট পাস অনুমোদনের সুবিধা।"
+      },
+      "visaTimeline": {
+        "en": "4 – 6 Weeks (EMGS eVAL)",
+        "bn": "৪ – ৬ সপ্তাহ (EMGS eVAL)"
+      },
+      "intakes": {
+        "en": "January, May & September",
+        "bn": "জানুয়ারি, মে ও সেপ্টেম্বর"
+      },
+      "languageRequirement": {
+        "en": "IELTS 5.0–6.0 or University English Placement Test",
+        "bn": "IELTS ৫.০–৬.০ অথবা ইউনিভার্সিটি ইংলিশ প্লেসমেন্ট টেস্ট"
+      },
+      "image": "/images/country-malaysia.svg",
+      "highlights": {
+        "en": [
+          "No bank solvency freeze required for most EMGS applications",
+          "UK & Australian dual-award degrees at 40% lower living cost",
+          "Halal-friendly campus environment & seamless Dhaka–KL flights",
+          "Dedicated pre-departure accommodation & airport pickup coordination"
+        ],
+        "bn": [
+          "বেশিরভাগ EMGS আবেদনে বড় ব্যাংক সলভেন্সি আটকে রাখার প্রয়োজন নেই",
+          "৪০% কম খরচে যুক্তরাজ্য ও অস্ট্রেলিয়ার ডুয়াল-অ্যাওয়ার্ড ডিগ্রি",
+          "হালাল-বান্ধব ক্যাম্পাস পরিবেশ ও সহজ ঢাকা–কুয়ালালামপুর যাতায়াত",
+          "পৌঁছানোর আগে আবাসন ও এয়ারপোর্ট পিকআপ সমন্বয়"
+        ]
+      }
+    },
+    {
+      "id": "country-cn",
+      "slug": "china",
+      "code": "CN",
+      "name": {
+        "en": "China",
+        "bn": "চীন"
+      },
+      "tagline": {
+        "en": "X1 / X2 Visa · CSC & Provincial Scholarship Tracks",
+        "bn": "X1 / X2 ভিসা · CSC ও প্রাদেশিক স্কলারশিপ প্রোগ্রাম"
+      },
+      "overview": {
+        "en": "China leads Asia in engineering, computer science, MBBS, and international trade with extensive Chinese Government (CSC) and university-funded full scholarships.",
+        "bn": "ইঞ্জিনিয়ারিং, কম্পিউটার সায়েন্স, এমবিবিএস এবং আন্তর্জাতিক বাণিজ্যে চীন এশিয়ার শীর্ষে, যেখানে CSC ও ইউনিভার্সিটি ফুল স্কলারশিপের ব্যাপক সুযোগ রয়েছে।"
+      },
+      "visaTimeline": {
+        "en": "5 – 7 Weeks (JW201 / JW202)",
+        "bn": "৫ – ৭ সপ্তাহ (JW201 / JW202)"
+      },
+      "intakes": {
+        "en": "March & September",
+        "bn": "মার্চ ও সেপ্টেম্বর"
+      },
+      "languageRequirement": {
+        "en": "English-taught programs available; HSK 4+ for Chinese track",
+        "bn": "ইংরেজি মাধ্যম প্রোগ্রাম রয়েছে; চাইনিজ ট্র্যাকের জন্য HSK ৪+"
+      },
+      "image": "/images/country-china.svg",
+      "highlights": {
+        "en": [
+          "Full & partial scholarships covering tuition and dormitory",
+          "English-taught Bachelor & Master programs in STEM and Business",
+          "Direct JW202 processing & verified university admission letters",
+          "Modern research labs and global industry internship links"
+        ],
+        "bn": [
+          "টিউশন ফি এবং ডরমিটরি কভার করা ফুল ও আংশিক স্কলারশিপ",
+          "STEM ও বিজনেস বিষয়ে ইংরেজি মাধ্যমে ব্যাচেলর ও মাস্টার্স প্রোগ্রাম",
+          "সরাসরি JW202 প্রসেসিং এবং যাচাইকৃত অফার লেটার সহায়তা",
+          "আধুনিক রিসার্চ ল্যাব ও আন্তর্জাতিক ইন্টার্নশিপের সুযোগ"
+        ]
+      }
+    }
+  ],
+  "universities": [
+    {
+      "id": "uni-kr-1",
+      "countryId": "country-kr",
+      "name": {
+        "en": "Yonsei University",
+        "bn": "ইয়োনসেই ইউনিভার্সিটি"
+      },
+      "city": {
+        "en": "Seoul",
+        "bn": "সিউল"
+      },
+      "programs": {
+        "en": "Underwood International College, Computer Science, Business",
+        "bn": "আন্ডারউড ইন্টারন্যাশনাল কলেজ, কম্পিউটার সায়েন্স, বিজনেস"
+      },
+      "tuitionRange": {
+        "en": "USD 4,200 – 5,800 / semester",
+        "bn": "৪,২০০ – ৫,৮০০ ডলার / সেমিস্টার"
+      },
+      "scholarship": {
+        "en": "30% – 100% Merit & Need Waiver",
+        "bn": "৩০% – ১০০% মেরিট স্কলারশিপ"
+      },
+      "intake": {
+        "en": "March & September",
+        "bn": "মার্চ ও সেপ্টেম্বর"
+      },
+      "rankingNote": {
+        "en": "SKY Top-3 Private Research University",
+        "bn": "SKY শীর্ষ-৩ গবেষণা বিশ্ববিদ্যালয়"
+      }
+    },
+    {
+      "id": "uni-kr-2",
+      "countryId": "country-kr",
+      "name": {
+        "en": "Hanyang University",
+        "bn": "হানইয়াং ইউনিভার্সিটি"
+      },
+      "city": {
+        "en": "Seoul & ERICA",
+        "bn": "সিউল ও এরিকা"
+      },
+      "programs": {
+        "en": "Mechanical Engineering, AI, Data Science, Global MBA",
+        "bn": "মেকানিক্যাল ইঞ্জিনিয়ারিং, এআই, ডেটা সায়েন্স, গ্লোবাল এমবিএ"
+      },
+      "tuitionRange": {
+        "en": "USD 3,900 – 5,100 / semester",
+        "bn": "৩,৯০০ – ৫,১০০ ডলার / সেমিস্টার"
+      },
+      "scholarship": {
+        "en": "Up to 70% International Excellence Award",
+        "bn": "সর্বোচ্চ ৭০% এক্সিলেন্স অ্যাওয়ার্ড"
+      },
+      "intake": {
+        "en": "March & September",
+        "bn": "মার্চ ও সেপ্টেম্বর"
+      },
+      "rankingNote": {
+        "en": "Leading Engineering & Industry Hub",
+        "bn": "শীর্ষ ইঞ্জিনিয়ারিং ও ইন্ডাস্ট্রি হাব"
+      }
+    },
+    {
+      "id": "uni-kr-3",
+      "countryId": "country-kr",
+      "name": {
+        "en": "Sejong University",
+        "bn": "সেজং ইউনিভার্সিটি"
+      },
+      "city": {
+        "en": "Seoul",
+        "bn": "সিউল"
+      },
+      "programs": {
+        "en": "Hospitality & Tourism, Computer Engineering, BBA",
+        "bn": "হসপিটালিটি ও ট্যুরিজম, কম্পিউটার ইঞ্জিনিয়ারিং, বিবিএ"
+      },
+      "tuitionRange": {
+        "en": "USD 3,400 – 4,500 / semester",
+        "bn": "৩,৪০০ – ৪,৫০০ ডলার / সেমিস্টার"
+      },
+      "scholarship": {
+        "en": "20% – 80% IELTS/TOPIK Tiered Waiver",
+        "bn": "২০% – ৮০% IELTS/TOPIK স্কলারশিপ"
+      },
+      "intake": {
+        "en": "March, June, September, December",
+        "bn": "মার্চ, জুন, সেপ্টেম্বর, ডিসেম্বর"
+      },
+      "rankingNote": {
+        "en": "Strong English-Track Portfolio",
+        "bn": "সমৃদ্ধ ইংরেজি মাধ্যম প্রোগ্রাম"
+      }
+    },
+    {
+      "id": "uni-kr-4",
+      "countryId": "country-kr",
+      "name": {
+        "en": "Busan University of Foreign Studies",
+        "bn": "বুসান ইউনিভার্সিটি অব ফরেন স্টাডিজ"
+      },
+      "city": {
+        "en": "Busan",
+        "bn": "বুসান"
+      },
+      "programs": {
+        "en": "Korean Language (D-4), International Trade, IT Convergence",
+        "bn": "কোরিয়ান ল্যাঙ্গুয়েজ (D-4), ইন্টারন্যাশনাল ট্রেড, আইটি"
+      },
+      "tuitionRange": {
+        "en": "USD 2,500 – 3,300 / semester",
+        "bn": "২,৫০০ – ৩,৩০০ ডলার / সেমিস্টার"
+      },
+      "scholarship": {
+        "en": "30% – 50% Admission Scholarship",
+        "bn": "৩০% – ৫০% অ্যাডমিশন স্কলারশিপ"
+      },
+      "intake": {
+        "en": "Quarterly Language & Semi-Annual Degree",
+        "bn": "প্রতি কোয়ার্টারে ল্যাঙ্গুয়েজ ও ডিগ্রি"
+      },
+      "rankingNote": {
+        "en": "Accessible Port City Living Cost",
+        "bn": "সাশ্রয়ী বন্দর নগরী জীবনযাত্রার খরচ"
+      }
+    },
+    {
+      "id": "uni-my-1",
+      "countryId": "country-my",
+      "name": {
+        "en": "Taylor's University",
+        "bn": "টেইলরস ইউনিভার্সিটি"
+      },
+      "city": {
+        "en": "Subang Jaya, Selangor",
+        "bn": "সুবং জায়া, সেলাঙ্গর"
+      },
+      "programs": {
+        "en": "Hospitality, Business, Computer Science, Architecture",
+        "bn": "হসপিটালিটি, বিজনেস, কম্পিউটার সায়েন্স, আর্কিটেকচার"
+      },
+      "tuitionRange": {
+        "en": "USD 6,200 – 8,000 / year",
+        "bn": "৬,২০০ – ৮,০০০ ডলার / বছর"
+      },
+      "scholarship": {
+        "en": "Up to RM 12,000 Merit Bursary",
+        "bn": "সর্বোচ্চ ১২,০০০ রিঙ্গিত মেরিট বার্সারি"
+      },
+      "intake": {
+        "en": "January, March, August",
+        "bn": "জানুয়ারি, মার্চ, আগস্ট"
+      },
+      "rankingNote": {
+        "en": "#1 Private University in Southeast Asia",
+        "bn": "দক্ষিণ-পূর্ব এশিয়ার #১ প্রাইভেট ইউনিভার্সিটি"
+      }
+    },
+    {
+      "id": "uni-my-2",
+      "countryId": "country-my",
+      "name": {
+        "en": "Asia Pacific University (APU)",
+        "bn": "এশিয়া প্যাসিফিক ইউনিভার্সিটি (APU)"
+      },
+      "city": {
+        "en": "Bukit Jalil, Kuala Lumpur",
+        "bn": "বুকিত জলিল, কুয়ালালামপুর"
+      },
+      "programs": {
+        "en": "Cybersecurity, AI, Software Engineering, FinTech",
+        "bn": "সাইবার সিকিউরিটি, এআই, সফটওয়্যার ইঞ্জিনিয়ারিং, ফিনটেক"
+      },
+      "tuitionRange": {
+        "en": "USD 5,200 – 6,800 / year",
+        "bn": "৫,২০০ – ৬,৮০০ ডলার / বছর"
+      },
+      "scholarship": {
+        "en": "15% – 30% Academic Merit Waiver",
+        "bn": "১৫% – ৩০% অ্যাকাডেমিক ওয়েভার"
+      },
+      "intake": {
+        "en": "January, May, September",
+        "bn": "জানুয়ারি, মে, সেপ্টেম্বর"
+      },
+      "rankingNote": {
+        "en": "Premier Tech & UK Dual-Degree Partner",
+        "bn": "শীর্ষ টেক ও ইউকে ডুয়াল-ডিগ্রি পার্টনার"
+      }
+    },
+    {
+      "id": "uni-my-3",
+      "countryId": "country-my",
+      "name": {
+        "en": "UCSI University",
+        "bn": "ইউসিএসআই ইউনিভার্সিটি"
+      },
+      "city": {
+        "en": "Cheras, Kuala Lumpur",
+        "bn": "চেরাস, কুয়ালালামপুর"
+      },
+      "programs": {
+        "en": "Pharmacy, Engineering, MBA, Logistics Management",
+        "bn": "ফার্মাসি, ইঞ্জিনিয়ারিং, এমবিএ, লজিস্টিকস ম্যানেজমেন্ট"
+      },
+      "tuitionRange": {
+        "en": "USD 4,400 – 6,000 / year",
+        "bn": "৪,৪০০ – ৬,০০০ ডলার / বছর"
+      },
+      "scholarship": {
+        "en": "25% – 50% Trust Scholarship",
+        "bn": "২৫% – ৫০% ট্রাস্ট স্কলারশিপ"
+      },
+      "intake": {
+        "en": "January, May, September",
+        "bn": "জানুয়ারি, মে, সেপ্টেম্বর"
+      },
+      "rankingNote": {
+        "en": "QS Top 300 Global Ranking",
+        "bn": "কিউএস টপ ৩০০ গ্লোবাল র‍্যাঙ্কিং"
+      }
+    },
+    {
+      "id": "uni-cn-1",
+      "countryId": "country-cn",
+      "name": {
+        "en": "Zhejiang University",
+        "bn": "ঝেজিয়াং ইউনিভার্সিটি"
+      },
+      "city": {
+        "en": "Hangzhou",
+        "bn": "হাংঝো"
+      },
+      "programs": {
+        "en": "Computer Science, Civil Engineering, MBBS, Global Communication",
+        "bn": "কম্পিউটার সায়েন্স, সিভিল ইঞ্জিনিয়ারিং, এমবিবিএস"
+      },
+      "tuitionRange": {
+        "en": "USD 3,200 – 5,800 / year",
+        "bn": "৩,২০০ – ৫,৮০০ ডলার / বছর"
+      },
+      "scholarship": {
+        "en": "CSC Full & Provincial Tuition Grants",
+        "bn": "CSC ফুল এবং প্রাদেশিক গ্র্যান্ট"
+      },
+      "intake": {
+        "en": "September",
+        "bn": "সেপ্টেম্বর"
+      },
+      "rankingNote": {
+        "en": "C9 League Top Research Institution",
+        "bn": "C9 লিগ শীর্ষ গবেষণা প্রতিষ্ঠান"
+      }
+    },
+    {
+      "id": "uni-cn-2",
+      "countryId": "country-cn",
+      "name": {
+        "en": "Nanjing University of Aeronautics & Astronautics",
+        "bn": "নানজিং অ্যারোনটিক্স ইউনিভার্সিটি"
+      },
+      "city": {
+        "en": "Nanjing",
+        "bn": "নানজিং"
+      },
+      "programs": {
+        "en": "Aerospace Engineering, AI, International Trade, Mechanical",
+        "bn": "অ্যারোস্পেস ইঞ্জিনিয়ারিং, এআই, ইন্টারন্যাশনাল ট্রেড"
+      },
+      "tuitionRange": {
+        "en": "USD 2,800 – 3,600 / year",
+        "bn": "২,৮০০ – ৩,৬০০ ডলার / বছর"
+      },
+      "scholarship": {
+        "en": "100% Tuition + Dormitory Freshman Grant",
+        "bn": "১০০% টিউশন + ডরমিটরি স্কলারশিপ"
+      },
+      "intake": {
+        "en": "March & September",
+        "bn": "মার্চ ও সেপ্টেম্বর"
+      },
+      "rankingNote": {
+        "en": "High International Student Acceptance",
+        "bn": "আন্তর্জাতিক শিক্ষার্থীদের জন্য উচ্চ সুযোগ"
+      }
+    },
+    {
+      "id": "uni-cn-3",
+      "countryId": "country-cn",
+      "name": {
+        "en": "Jiangsu University",
+        "bn": "জিয়াংসু ইউনিভার্সিটি"
+      },
+      "city": {
+        "en": "Zhenjiang",
+        "bn": "ঝেনজিয়াং"
+      },
+      "programs": {
+        "en": "MBBS, Software Engineering, Accounting, Mechanical",
+        "bn": "এমবিবিএস, সফটওয়্যার ইঞ্জিনিয়ারিং, অ্যাকাউন্টিং"
+      },
+      "tuitionRange": {
+        "en": "USD 2,400 – 4,500 / year",
+        "bn": "২,৪০০ – ৪,৫০০ ডলার / বছর"
+      },
+      "scholarship": {
+        "en": "President Scholarship (Up to 100% Year 1)",
+        "bn": "প্রেসিডেন্ট স্কলারশিপ (সর্বোচ্চ ১০০%)"
+      },
+      "intake": {
+        "en": "March & September",
+        "bn": "মার্চ ও সেপ্টেম্বর"
+      },
+      "rankingNote": {
+        "en": "English-Taught STEM & Medical Hub",
+        "bn": "ইংরেজি মাধ্যম STEM ও মেডিকেল হাব"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat-electronics",
+      "slug": "electronics",
+      "name": {
+        "en": "Electronics Items",
+        "bn": "ইলেকট্রনিক্স আইটেম"
+      },
+      "description": {
+        "en": "Study-ready laptops, noise-canceling audio, smartwatches, and travel power hubs.",
+        "bn": "ল্যাপটপ অ্যাক্সেসরিজ, নয়েজ-ক্যান্সেলিং হেডফোন, স্মার্টওয়াচ ও পাওয়ার হাব।"
+      },
+      "image": "/images/store-electronics.svg"
+    },
+    {
+      "id": "cat-fashion",
+      "slug": "fashion",
+      "name": {
+        "en": "Fashion",
+        "bn": "ফ্যাশন"
+      },
+      "description": {
+        "en": "Minimalist outerwear, tailored campus apparel, watches, and leather essentials.",
+        "bn": "মিনিমালিস্ট জ্যাকেট, ক্যাম্পাস ফ্যাশন, ঘড়ি ও লেদার অ্যাক্সেসরিজ।"
+      },
+      "image": "/images/store-fashion.svg"
+    },
+    {
+      "id": "cat-lifestyle",
+      "slug": "lifestyle",
+      "name": {
+        "en": "Lifestyle",
+        "bn": "লাইফস্টাইল"
+      },
+      "description": {
+        "en": "Desk lighting, insulated drinkware, study planners, and daily home essentials.",
+        "bn": "ডেস্ক ল্যাম্প, ইনসুলেটেড ফ্লাস্ক, প্ল্যানার ও দৈনন্দিন লাইফস্টাইল পণ্য।"
+      },
+      "image": "/images/store-lifestyle.svg"
+    },
+    {
+      "id": "cat-travel",
+      "slug": "travel-equipment",
+      "name": {
+        "en": "Travel Equipment",
+        "bn": "ট্রাভেল ইকুইপমেন্ট"
+      },
+      "description": {
+        "en": "Hardshell cabin luggage, anti-theft laptop backpacks, and universal adapters.",
+        "bn": "হার্ডশেল কেবিন লাগেজ, অ্যান্টি-থেফট ব্যাকপ্যাক এবং ইউনিভার্সাল অ্যাডাপ্টার।"
+      },
+      "image": "/images/store-travel.svg"
+    },
+    {
+      "id": "cat-live",
+      "slug": "live-shopping",
+      "name": {
+        "en": "Live Shopping",
+        "bn": "লাইভ শপিং"
+      },
+      "description": {
+        "en": "Special live-demo featured bundles and limited studio drops with instant order lock.",
+        "bn": "লাইভ শোকেসের বিশেষ বাণ্ডেল ও সীমিত স্টকের এক্সক্লুসিভ পণ্যসমূহ।"
+      },
+      "image": "/images/store-live.svg",
+      "isLive": true
+    }
+  ],
+  "products": [
+    {
+      "id": "prod-1",
+      "categoryId": "cat-electronics",
+      "sku": "EDX-EL-101",
+      "name": {
+        "en": "Edunexa Studio ANC Wireless Headphones",
+        "bn": "এডুনেক্সা স্টুডিও ANC ওয়্যারলেস হেডফোন"
+      },
+      "description": {
+        "en": "40-hour battery life hybrid active noise-canceling headphones built for library focus and long flights.",
+        "bn": "লাইব্রেরি পড়াশোনা ও দীর্ঘ ফ্লাইটের জন্য ৪০ ঘণ্টার ব্যাটারি ব্যাকআপসহ অ্যাক্টিভ নয়েজ-ক্যান্সেলিং হেডফোন।"
+      },
+      "specs": {
+        "en": "Bluetooth 5.3 · USB-C Fast Charge · 40h Playback",
+        "bn": "ব্লুটুথ ৫.৩ · ইউএসবি-সি ফাস্ট চার্জ · ৪০ ঘণ্টা ব্যাকআপ"
+      },
+      "price": 4850,
+      "originalPrice": 5600,
+      "stock": 24,
+      "image": "/images/store-electronics.svg",
+      "isLiveFeatured": true,
+      "liveSchedule": {
+        "en": "Featured in Today’s 8:00 PM Live Drop",
+        "bn": "আজ রাত ৮টার লাইভ ড্রপে ফিচার্ড"
+      }
+    },
+    {
+      "id": "prod-2",
+      "categoryId": "cat-electronics",
+      "sku": "EDX-EL-102",
+      "name": {
+        "en": "GaN 65W Global Multi-Port Charger",
+        "bn": "GaN ৬৫ ওয়াট গ্লোবাল মাল্টি-পোর্ট চার্জার"
+      },
+      "description": {
+        "en": "Compact GaN charger with dual USB-C PD and US/EU/UK/KR plug adapters for international students.",
+        "bn": "কোরিয়া, মালয়েশিয়া ও ইউরোপ উপযোগী প্লাগ অ্যাডাপ্টারসহ ৬৫ ওয়াট ফাস্ট চার্জার।"
+      },
+      "specs": {
+        "en": "65W PD 3.0 · 2x USB-C + 1x USB-A · 145g",
+        "bn": "৬৫ ওয়াট পিডি ৩.০ · ২টি ইউএসবি-সি + ১টি ইউএসবি-এ"
+      },
+      "price": 2450,
+      "stock": 42,
+      "image": "/images/store-electronics.svg"
+    },
+    {
+      "id": "prod-3",
+      "categoryId": "cat-fashion",
+      "sku": "EDX-FA-201",
+      "name": {
+        "en": "Seoul All-Weather Tailored Trench Jacket",
+        "bn": "সিউল অল-ওয়েদার ট্রেঞ্চ জ্যাকেট"
+      },
+      "description": {
+        "en": "Water-repellent breathable commuter coat designed for crisp autumn and winter campuses.",
+        "bn": "শীত ও বৃষ্টির ক্যাম্পাস যাতায়াতের জন্য আরামদায়ক ওয়াটার-রেপেলেন্ট ট্রেঞ্চ জ্যাকেট।"
+      },
+      "specs": {
+        "en": "Matte Twill Shell · Sizes M / L / XL · Navy",
+        "bn": "ম্যাট টুইল ফ্যাব্রিক · সাইজ M / L / XL · নেভি ব্লু"
+      },
+      "price": 3900,
+      "originalPrice": 4500,
+      "stock": 18,
+      "image": "/images/store-fashion.svg",
+      "isLiveFeatured": true,
+      "liveSchedule": {
+        "en": "Live Fit Showcase · 15% Bundle Savings",
+        "bn": "লাইভ ফিট শোকেস · ১৫% ছাড়"
+      }
+    },
+    {
+      "id": "prod-4",
+      "categoryId": "cat-fashion",
+      "sku": "EDX-FA-202",
+      "name": {
+        "en": "Minimalist Leather Passport & Card Folio",
+        "bn": "মিনিমালিস্ট লেদার পাসপোর্ট ও কার্ড ফোলিও"
+      },
+      "description": {
+        "en": "RFID-shielded full-grain leather travel wallet sized for passport, boarding passes, and 6 cards.",
+        "bn": "পাসপোর্ট, বোর্ডিং পাস এবং ৬টি কার্ডের জন্য RFID সুরক্ষিত আসল চামড়ার ওয়ালেট।"
+      },
+      "specs": {
+        "en": "Full-Grain Leather · RFID Shield · Saddle Gold",
+        "bn": "ফুল-গ্রেইন লেদার · RFID প্রোটেকশন"
+      },
+      "price": 1650,
+      "stock": 35,
+      "image": "/images/store-fashion.svg"
+    },
+    {
+      "id": "prod-5",
+      "categoryId": "cat-lifestyle",
+      "sku": "EDX-LF-301",
+      "name": {
+        "en": "Architectural LED Study Desk Lamp",
+        "bn": "আর্কিটেকচারাল LED স্টাডি ডেস্ক ল্যাম্প"
+      },
+      "description": {
+        "en": "Flicker-free eye-care study lamp with 3 color temperatures and wireless phone charging base.",
+        "bn": "চোখের সুরক্ষার জন্য ৩টি কালার মোড ও ওয়্যারলেস চার্জিং বেসসহ প্রিমিয়াম ডেস্ক ল্যাম্প।"
+      },
+      "specs": {
+        "en": "CRI 95+ LED · Touch Dimmer · USB-C Powered",
+        "bn": "CRI ৯৫+ এলইডি · টাচ ডিমার · ইউএসবি-সি"
+      },
+      "price": 2290,
+      "stock": 29,
+      "image": "/images/store-lifestyle.svg"
+    },
+    {
+      "id": "prod-6",
+      "categoryId": "cat-lifestyle",
+      "sku": "EDX-LF-302",
+      "name": {
+        "en": "Thermal Insulated Campus Flask (750ml)",
+        "bn": "থার্মাল ইনসুলেটেড ক্যাম্পাস ফ্লাস্ক (৭৫০ মি.লি.)"
+      },
+      "description": {
+        "en": "Double-wall 304 stainless steel bottle keeping drinks cold for 24h or hot for 12h.",
+        "bn": "২৪ ঘণ্টা ঠাণ্ডা বা ১২ ঘণ্টা গরম রাখার জন্য ডাবল-ওয়াল ৩০৪ স্টেইনলেস স্টিল ফ্লাস্ক।"
+      },
+      "specs": {
+        "en": "750ml · Matte Navy Finish · Leakproof Cap",
+        "bn": "৭৫০ মি.লি. · ম্যাট নেভি ফিনিশ · লিকপ্রুফ ক্যাপ"
+      },
+      "price": 1150,
+      "stock": 54,
+      "image": "/images/store-lifestyle.svg"
+    },
+    {
+      "id": "prod-7",
+      "categoryId": "cat-travel",
+      "sku": "EDX-TR-401",
+      "name": {
+        "en": "AeroShell 24-Inch Polycarbonate Check-in Luggage",
+        "bn": "অ্যারোশেল ২৪-ইঞ্চি পলিকার্বোনেট লাগেজ"
+      },
+      "description": {
+        "en": "Impact-resistant German polycarbonate shell with TSA combination lock and 360-degree silent spinner wheels.",
+        "bn": "TSA লক ও ৩৬০-ডিগ্রি সাইলেন্ট হুইলসহ মজবুত ও হালকা ওজনের পলিকার্বোনেট ট্রাভেল লাগেজ।"
+      },
+      "specs": {
+        "en": "68L Capacity · TSA Lock · 3.4 kg Empty Weight",
+        "bn": "৬৮ লিটার ধারণক্ষমতা · TSA লক · ৩.৪ কেজি ওজন"
+      },
+      "price": 6950,
+      "originalPrice": 7800,
+      "stock": 15,
+      "image": "/images/store-travel.svg",
+      "isLiveFeatured": true,
+      "liveSchedule": {
+        "en": "Student Departure Special · Free Rain Cover",
+        "bn": "স্টুডেন্ট ডিপার্চার স্পেশাল · ফ্রি রেইন কভার"
+      }
+    },
+    {
+      "id": "prod-8",
+      "categoryId": "cat-travel",
+      "sku": "EDX-TR-402",
+      "name": {
+        "en": "Commuter 16\" Anti-Theft Tech Backpack",
+        "bn": "কমিউটার ১৬\" অ্যান্টি-থেফট টেক ব্যাকপ্যাক"
+      },
+      "description": {
+        "en": "Water-resistant ballistic nylon backpack with padded 16-inch laptop sleeve and hidden passport pocket.",
+        "bn": "প্যাডেড ১৬ ইঞ্চি ল্যাপটপ কম্পার্টমেন্ট ও গোপন পাসপোর্ট পকেটসহ ওয়াটার-রেজিস্ট্যান্ট ব্যাকপ্যাক।"
+      },
+      "specs": {
+        "en": "26L · External USB Port · Luggage Strap",
+        "bn": "২৬ লিটার · ইউএসবি পোর্ট · লাগেজ স্ট্র্যাপ"
+      },
+      "price": 2650,
+      "stock": 31,
+      "image": "/images/store-travel.svg"
+    },
+    {
+      "id": "prod-9",
+      "categoryId": "cat-live",
+      "sku": "EDX-LV-501",
+      "name": {
+        "en": "Departure Starter Bundle (Backpack + GaN + Folio)",
+        "bn": "ডিপার্চার স্টার্টার বাণ্ডেল (ব্যাগ + চার্জার + ফোলিও)"
+      },
+      "description": {
+        "en": "All-in-one departure kit curated for students and work permit travelers heading to Korea, China, Malaysia, or Europe.",
+        "bn": "বিদেশগামী শিক্ষার্থী ও কর্মীদের জন্য এক প্যাকেজে টেক ব্যাকপ্যাক, গ্লোবাল চার্জার ও পাসপোর্ট ফোলিও।"
+      },
+      "specs": {
+        "en": "3-Piece Kit · Gift Boxed · Priority Dispatch",
+        "bn": "৩টি পণ্যের পূর্ণাঙ্গ সেট · প্রায়োরিটি ডিসপ্যাচ"
+      },
+      "price": 5990,
+      "originalPrice": 6750,
+      "stock": 12,
+      "image": "/images/store-live.svg",
+      "isLiveFeatured": true,
+      "liveSchedule": {
+        "en": "Live Studio Exclusive · Limited 12 Sets",
+        "bn": "লাইভ স্টুডিও এক্সক্লুসিভ · মাত্র ১২ সেট"
+      }
+    }
+  ],
+  "jobs": [
+    {
+      "id": "job-by",
+      "slug": "belarus-work-permit",
+      "country": {
+        "en": "Belarus",
+        "bn": "বেলারুশ"
+      },
+      "title": {
+        "en": "Belarus Work Permit",
+        "bn": "বেলারুশ ওয়ার্ক পারমিট"
+      },
+      "sector": {
+        "en": "Manufacturing, Logistics & Warehouse Operations",
+        "bn": "ম্যানুফ্যাকচারিং, লজিস্টিকস ও ওয়্যারহাউস"
+      },
+      "salaryRange": {
+        "en": "USD 750 – 1,050 / month + Overtime",
+        "bn": "৭৫০ – ১,০৫০ মার্কিন ডলার / মাস + ওভারটাইম"
+      },
+      "contractDuration": {
+        "en": "2 Years (Renewable)",
+        "bn": "২ বছর (নবায়নযোগ্য)"
+      },
+      "processingTime": {
+        "en": "60 – 75 Working Days",
+        "bn": "৬০ – ৭৫ কর্মদিবস"
+      },
+      "openings": 35,
+      "image": "/images/job-belarus.svg",
+      "description": {
+        "en": "Official employer-sponsored work permit program for European logistics hubs, automated packaging lines, and food/industrial assembly facilities in Minsk and Brest.",
+        "bn": "মিনস্ক ও ব্রেস্টের লজিস্টিকস হাব, অটোমেটেড প্যাকেজিং এবং ইন্ডাস্ট্রিয়াল ফ্যাসিলিটির জন্য এমপ্লয়ার-স্পন্সরড অফিশিয়াল ওয়ার্ক পারমিট প্রোগ্রাম।"
+      },
+      "requirements": {
+        "en": [
+          "Valid Bangladeshi passport with minimum 18 months validity",
+          "Age between 21 and 42 years, medically fit",
+          "Basic English communication or willingness for pre-departure orientation",
+          "Police clearance certificate & verified work/skill history"
+        ],
+        "bn": [
+          "সর্বনিম্ন ১৮ মাস মেয়াদী বৈধ বাংলাদেশি পাসপোর্ট",
+          "বয়স ২১ থেকে ৪২ বছরের মধ্যে এবং শারীরিকভাবে সুস্থ",
+          "বেসিক ইংরেজি জ্ঞান অথবা প্রি-ডিপার্চার ওরিয়েন্টেশনের আগ্রহ",
+          "পুলিশ ক্লিয়ারেন্স সার্টিফিকেট ও পূর্ব কাজের অভিজ্ঞতার তথ্য"
+        ]
+      },
+      "benefits": {
+        "en": [
+          "Company-provided shared accommodation & utility coverage",
+          "Medical insurance & legal residence registration",
+          "Airport reception and orientation in Minsk",
+          "Transparent milestone-based service structure"
+        ],
+        "bn": [
+          "কোম্পানির পক্ষ থেকে আবাসন ও ইউটিলিটি সুবিধা",
+          "মেডিকেল ইন্স্যুরেন্স ও বৈধ রেসিডেন্স রেজিস্ট্রেশন",
+          "মিনস্ক বিমানবন্দরে রিসেপশন ও ওরিয়েন্টেশন সহায়তা",
+          "ধাপে ধাপে স্বচ্ছ সার্ভিস প্রসেসিং সুবিধা"
+        ]
+      }
+    },
+    {
+      "id": "job-cn",
+      "slug": "china-work-permit",
+      "country": {
+        "en": "China",
+        "bn": "চীন"
+      },
+      "title": {
+        "en": "China Work Permit",
+        "bn": "চীন ওয়ার্ক পারমিট"
+      },
+      "sector": {
+        "en": "Industrial Automation, Quality Control & Trade Support",
+        "bn": "ইন্ডাস্ট্রিয়াল অটোমেশন, কোয়ালিটি কন্ট্রোল ও ট্রেড"
+      },
+      "salaryRange": {
+        "en": "USD 900 – 1,400 / month",
+        "bn": "৯০০ – ১,৪০০ মার্কিন ডলার / মাস"
+      },
+      "contractDuration": {
+        "en": "1 – 2 Years (Renewable Z-Visa)",
+        "bn": "১ – ২ বছর (নবায়নযোগ্য Z-ভিসা)"
+      },
+      "processingTime": {
+        "en": "45 – 60 Working Days",
+        "bn": "৪৫ – ৬০ কর্মদিবস"
+      },
+      "openings": 22,
+      "image": "/images/job-china.svg",
+      "description": {
+        "en": "Category-B & skilled technical Z-Visa work permit placements across Yiwu, Guangzhou, and Suzhou in supply chain coordination, factory QA, and industrial maintenance.",
+        "bn": "ইইউ, গুয়াংজু এবং সুঝোতে সাপ্লাই চেইন সমন্বয়, ফ্যাক্টরি কোয়ালিটি কন্ট্রোল ও টেকনিক্যাল রক্ষণাবেক্ষণের জন্য বৈধ Z-ভিসা ওয়ার্ক পারমিট।"
+      },
+      "requirements": {
+        "en": [
+          "Bachelor degree or recognized technical diploma (attestation supported)",
+          "Minimum 2 years relevant experience or Chinese graduate status",
+          "Clean criminal record & medical health examination",
+          "Valid passport with at least 12 months remaining validity"
+        ],
+        "bn": [
+          "স্নাতক ডিগ্রি অথবা স্বীকৃত টেকনিক্যাল ডিপ্লোমা (সত্যায়ন সহায়তা রয়েছে)",
+          "সংশ্লিষ্ট কাজে কমপক্ষে ২ বছরের অভিজ্ঞতা অথবা চায়না গ্র্যাজুয়েট",
+          "পুলিশ ক্লিয়ারেন্স ও অনুমোদিত মেডিকেল ফিটনেস রিপোর্ট",
+          "কমপক্ষে ১২ মাস মেয়াদী বৈধ পাসপোর্ট"
+        ]
+      },
+      "benefits": {
+        "en": [
+          "Direct Foreigner Work Permit Notification Letter & Z-Visa endorsement",
+          "Housing allowance or furnished company quarters",
+          "Annual contract completion bonus & paid public holidays",
+          "Bilingual onboarding coordinator on arrival"
+        ],
+        "bn": [
+          "সরাসরি ওয়ার্ক পারমিট নোটিফিকেশন লেটার ও Z-ভিসা প্রসেসিং",
+          "আবাসন ভাতা অথবা কোম্পানির নির্ধারিত আবাসন সুবিধা",
+          "বাৎসরিক বোনাস ও সরকারি ছুটি",
+          "চীনে পৌঁছানোর পর দোভাষী ও অনবোর্ডিং সহায়তা"
+        ]
+      }
+    },
+    {
+      "id": "job-mn",
+      "slug": "mongolia-work-permit",
+      "country": {
+        "en": "Mongolia",
+        "bn": "মঙ্গোলিয়া"
+      },
+      "title": {
+        "en": "Mongolia Work Permit",
+        "bn": "মঙ্গোলিয়া ওয়ার্ক পারমিট"
+      },
+      "sector": {
+        "en": "Civil Construction, Welding & Infrastructure Engineering",
+        "bn": "সিভিল কনস্ট্রাকশন, ওয়েল্ডিং ও অবকাঠামো প্রকল্প"
+      },
+      "salaryRange": {
+        "en": "USD 850 – 1,300 / month + Meals",
+        "bn": "৮৫০ – ১,৩০০ মার্কিন ডলার / মাস + খাবার"
+      },
+      "contractDuration": {
+        "en": "2 Years Project Contract",
+        "bn": "২ বছর প্রজেক্ট কন্ট্রাক্ট"
+      },
+      "processingTime": {
+        "en": "45 – 65 Working Days",
+        "bn": "৪৫ – ৬৫ কর্মদিবস"
+      },
+      "openings": 40,
+      "image": "/images/job-mongolia.svg",
+      "description": {
+        "en": "Quota-approved HG work visa placements in Ulaanbaatar and regional infrastructure zones for skilled masons, steel fixers, certified welders, and site supervisors.",
+        "bn": "উলানবাটর ও আঞ্চলিক অবকাঠামো প্রকল্পে দক্ষ ম্যাসন্স, স্টিল ফিক্সার, সার্টিফায়েড ওয়েল্ডার ও সাইট সুপারভাইজারদের জন্য কোটা-অনুমোদিত HG ওয়ার্ক ভিসা।"
+      },
+      "requirements": {
+        "en": [
+          "Valid passport (18+ months) and trade skill experience",
+          "Age 22 – 45 years; trade test certificate preferred",
+          "Police clearance & standard medical fitness clearance",
+          "Ability to work in structured commercial construction teams"
+        ],
+        "bn": [
+          "বৈধ পাসপোর্ট (১৮+ মাস মেয়াদ) এবং সংশ্লিষ্ট ট্রেডে কাজের অভিজ্ঞতা",
+          "বয়স ২২ – ৪৫ বছর; ট্রেড টেস্ট সার্টিফিকেট অগ্রাধিকারযোগ্য",
+          "পুলিশ ক্লিয়ারেন্স ও মেডিকেল ফিটনেস সনদ",
+          "সুসংগঠিত কনস্ট্রাকশন টিমে কাজের মানসিকতা"
+        ]
+      },
+      "benefits": {
+        "en": [
+          "Full accommodation, heated winter gear, and 3 daily meals provided",
+          "Direct Labor Authority quota & official HG work visa",
+          "Overtime compensation as per Mongolia labor regulations",
+          "Dedicated Dhaka pre-departure trade briefing"
+        ],
+        "bn": [
+          "সম্পূর্ণ আবাসন, শীতকালীন সেফটি গিয়ার ও দৈনিক ৩ বেলা খাবার",
+          "সরাসরি লেবার অথরিটি কোটা এবং বৈধ HG ওয়ার্ক ভিসা",
+          "মঙ্গোলিয়ার শ্রম আইন অনুযায়ী ওভারটাইম ভাতা",
+          "ঢাকা অফিসে প্রি-ডিপার্চার ব্রিফিং ও ডকুমেন্টেশন"
+        ]
+      }
+    }
+  ],
+  "inquiries": [],
+  "orders": []
+}

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" fill="none">
+  <rect width="800" height="500" fill="#0A1A44"/>
+  <circle cx="590" cy="145" r="155" fill="#B91C1C" opacity="0.24"/>
+  <!-- Modern Spire & Architectural Gate -->
+  <rect x="210" y="180" width="75" height="235" rx="6" fill="#183885"/>
+  <rect x="335" y="115" width="54" height="300" rx="6" fill="#E2E8F0"/>
+  <circle cx="362" cy="175" r="30" fill="#F6C453"/>
+  <rect x="445" y="195" width="110" height="220" rx="6" fill="#1E40AF"/>
+  <path d="M575 415 V260 C575 215, 655 215, 655 260 V415" stroke="#F6C453" stroke-width="6" fill="#153175"/>
+  <line x1="120" y1="415" x2="690" y2="415" stroke="#F6C453" stroke-width="4" stroke-linecap="round"/>
+</svg>

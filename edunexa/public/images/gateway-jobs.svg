@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="800" y2="500" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#07163B"/>
+      <stop offset="100%" stop-color="#0F2D6E"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="400" cy="250" r="220" stroke="#1E40AF" stroke-width="1.5" opacity="0.5"/>
+  <circle cx="400" cy="250" r="160" stroke="#D99B16" stroke-width="1.5" stroke-dasharray="6 6" opacity="0.5"/>
+  <!-- Briefcase & Work Permit Motif -->
+  <rect x="210" y="170" width="230" height="170" rx="14" fill="#13337D" stroke="#F6C453" stroke-width="3"/>
+  <path d="M285 170 V142 C285 132, 293 125, 303 125 H347 C357 125, 365 132, 365 142 V170" stroke="#F6C453" stroke-width="4" fill="none"/>
+  <rect x="210" y="232" width="230" height="10" fill="#F6C453" opacity="0.9"/>
+  <rect x="308" y="222" width="34" height="30" rx="4" fill="#081B4B" stroke="#F6C453" stroke-width="3"/>
+  <!-- Verified Visa Document Card -->
+  <rect x="405" y="135" width="195" height="235" rx="12" fill="#FFFFFF"/>
+  <rect x="430" y="165" width="75" height="12" rx="4" fill="#081B4B"/>
+  <rect x="430" y="190" width="140" height="8" rx="4" fill="#CBD5E1"/>
+  <rect x="430" y="208" width="115" height="8" rx="4" fill="#CBD5E1"/>
+  <rect x="430" y="240" width="145" height="52" rx="8" fill="#F1F5F9" stroke="#CBD5E1"/>
+  <circle cx="460" cy="266" r="15" fill="#081B4B"/>
+  <path d="M453 266 L458 271 L468 260" stroke="#F6C453" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="486" y="256" width="70" height="8" rx="3" fill="#081B4B"/>
+  <rect x="486" y="271" width="50" height="6" rx="3" fill="#64748B"/>
+  <rect x="430" y="316" width="90" height="24" rx="6" fill="#D99B16"/>
+</svg>

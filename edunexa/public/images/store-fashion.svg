@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" fill="none">
+  <rect width="800" height="500" fill="#F8FAFC"/>
+  <circle cx="200" cy="140" r="140" fill="#FEF3C7" opacity="0.7"/>
+  <!-- Minimalist Coat & Accessories -->
+  <path d="M310 115 L360 95 H440 L490 115 L535 205 L485 230 L465 185 V390 H335 V185 L315 230 L265 205 Z" fill="#081B4B"/>
+  <path d="M365 95 L400 175 L435 95" stroke="#F6C453" stroke-width="4" fill="none"/>
+  <rect x="380" y="245" width="40" height="6" rx="3" fill="#F6C453"/>
+  <!-- Sunglasses -->
+  <rect x="145" y="295" width="60" height="36" rx="10" fill="#0F172A"/>
+  <rect x="220" y="295" width="60" height="36" rx="10" fill="#0F172A"/>
+  <line x1="205" y1="310" x2="220" y2="310" stroke="#D99B16" stroke-width="4"/>
+  <!-- Watch / Leather Cardholder -->
+  <rect x="545" y="285" width="110" height="75" rx="10" fill="#D99B16"/>
+  <rect x="560" y="305" width="80" height="6" rx="3" fill="#081B4B"/>
+</svg>
